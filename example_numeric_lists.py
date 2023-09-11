@@ -389,6 +389,7 @@ if __name__ == "__main__":
     illustrate_list_comprehensions()
 
     logger.info("Add more logging statements to the code to see what happens.")
+    logger.info("Here is another logging statement.")
     logger.info("Explore enough to understand.")
     logger.info("Apply these skills to your own topic domain.")
 

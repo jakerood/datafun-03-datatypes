@@ -1,0 +1,44 @@
+2023-09-10 22:46:18,977 =============================================================
+2023-09-10 22:46:18,977 =============================================================
+2023-09-10 22:46:18,978 Today is 2023-09-10 at 10:46 PM
+2023-09-10 22:46:18,978 This file is running on: posix Darwin 20.6.0
+2023-09-10 22:46:18,978 The Python version is: 3.11.4
+2023-09-10 22:46:18,978 The active conda environment is:  None
+2023-09-10 22:46:18,978 The active pip environment is:    None
+2023-09-10 22:46:18,978 The active environment path is:   /Library/Frameworks/Python.framework/Versions/3.11
+2023-09-10 22:46:18,978 The current working directory is: /Users/jakerood/Documents/NW_Missouri/datafun-03-datatypes
+2023-09-10 22:46:18,978 This source file is in:           /Users/jakerood/Documents/NW_Missouri/datafun-03-datatypes
+2023-09-10 22:46:18,978 =============================================================
+2023-09-10 22:46:18,978 =============================================================
+2023-09-10 22:46:18,978 The equation of the best fit line is: y = 3.624242424242424x + 3.666666666666668
+2023-09-10 22:46:18,979 We predict that when the player's season = 15, the player will hit about 58.03030303030303 home runs
+2023-09-10 22:46:18,979 Calling functions from main block
+2023-09-10 22:46:18,979 hits_list: [62, 102, 75, 113, 58, 50, 75, 94, 63, 75, 70, 66, 65, 62, 36, 35, 30, 16, 12, 5, 4]
+2023-09-10 22:46:18,985 mean: 55.61904761904762
+2023-09-10 22:46:18,985 median: 62
+2023-09-10 22:46:18,985 mode: 75
+2023-09-10 22:46:18,985 standard deviation: 30.647146996867736
+2023-09-10 22:46:18,986 variance: 939.2476190476191
+2023-09-10 22:46:18,986 seasons_list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+2023-09-10 22:46:18,986 homeruns_list: [7, 11, 16, 17, 24, 22, 29, 34, 35, 41]
+2023-09-10 22:46:18,986 correlation between seasons and home runs: 0.9887715353343306
+2023-09-10 22:46:18,986 Given hits list: [62, 102, 75, 113, 58, 50, 75, 94, 63, 75, 70, 66, 65, 62, 36, 35, 30, 16, 12, 5, 4]
+2023-09-10 22:46:18,986 The max() is 113
+2023-09-10 22:46:18,986 The min() is 4
+2023-09-10 22:46:18,986 The len() is 21
+2023-09-10 22:46:18,986 The sum() is 1168
+2023-09-10 22:46:18,986 The average is 55.61904761904762
+2023-09-10 22:46:18,986 Given hits list: [62, 102, 75, 113, 58, 50, 75, 94, 63, 75, 70, 66, 65, 62, 36, 35, 30, 16, 12, 5, 4]
+2023-09-10 22:46:18,986 Using the built-it function sorted(lst) gives: [4, 5, 12, 16, 30, 35, 36, 50, 58, 62, 62, 63, 65, 66, 70, 75, 75, 75, 94, 102, 113]
+2023-09-10 22:46:18,986 Using the built-in function sorted(lst,reverse=True) gives: [113, 102, 94, 75, 75, 75, 70, 66, 65, 63, 62, 62, 58, 50, 36, 35, 30, 16, 12, 5, 4]
+2023-09-10 22:46:18,986 new_lst is: ['yankees', 'white sox', 'twins', 'pirates', 'dodgers', 'cubs', 'cardinals']
+2023-09-10 22:46:18,986 Popped the first (index=0): yankees and now, new_lst is: ['white sox', 'twins', 'pirates', 'dodgers', 'cubs', 'cardinals']
+2023-09-10 22:46:18,986 Popped the last (index=-1): cardinals and now, new_lst is: ['white sox', 'twins', 'pirates', 'dodgers', 'cubs']
+2023-09-10 22:46:18,986 Hits list: {hits_list}
+2023-09-10 22:46:18,986 Hits over 60: [<filter object at 0x102b56bc0>]
+2023-09-10 22:46:18,986 Cuberoot hits: [<map object at 0x102b57280>]
+2023-09-10 22:46:18,986 Voulme of hits: <map object at 0x102b57100>
+2023-09-10 22:46:18,987 Hits list: [62, 102, 75, 113, 58, 50, 75, 94, 63, 75, 70, 66, 65, 62, 36, 35, 30, 16, 12, 5, 4]
+2023-09-10 22:46:18,987 Hits over 60 (using list comprehensions!): [62, 102, 75, 113, 75, 94, 63, 75, 70, 66, 65, 62]
+2023-09-10 22:46:18,987 Hits tripled (using list comprehensions!): [186, 306, 225, 339, 174, 150, 225, 282, 189, 225, 210, 198, 195, 186, 108, 105, 90, 48, 36, 15, 12]
+2023-09-10 22:46:18,987 Square root of hits (using list comprehensions!): [7.874007874011811, 10.099504938362077, 8.660254037844387, 10.63014581273465, 7.615773105863909, 7.0710678118654755, 8.660254037844387, 9.695359714832659, 7.937253933193772, 8.660254037844387, 8.366600265340756, 8.12403840463596, 8.06225774829855, 7.874007874011811, 6.0, 5.916079783099616, 5.477225575051661, 4.0, 3.4641016151377544, 2.23606797749979, 2.0]
