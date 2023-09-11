@@ -1,0 +1,23 @@
+2023-09-10 23:20:21,119 =============================================================
+2023-09-10 23:20:21,119 =============================================================
+2023-09-10 23:20:21,119 Today is 2023-09-10 at 11:20 PM
+2023-09-10 23:20:21,120 This file is running on: posix Darwin 20.6.0
+2023-09-10 23:20:21,120 The Python version is: 3.11.4
+2023-09-10 23:20:21,120 The active conda environment is:  None
+2023-09-10 23:20:21,120 The active pip environment is:    None
+2023-09-10 23:20:21,120 The active environment path is:   /Library/Frameworks/Python.framework/Versions/3.11
+2023-09-10 23:20:21,120 The current working directory is: /Users/jakerood/Documents/NW_Missouri/datafun-03-datatypes
+2023-09-10 23:20:21,120 This source file is in:           /Users/jakerood/Documents/NW_Missouri/datafun-03-datatypes
+2023-09-10 23:20:21,120 =============================================================
+2023-09-10 23:20:21,120 =============================================================
+2023-09-10 23:20:21,120 The list of teams is: ['Minnesota Twins', 'Chicago White Sox', 'Cleveland Guardians', 'Detroit Tigers', 'Kansas City Royals']
+2023-09-10 23:20:21,120 The list of stadiums is: ['Target Field', 'Guaranteed Rate Field', 'Progressive Field', 'Comerica Park', 'Kauffman Stadium']
+2023-09-10 23:20:21,120 The list of terms is: ['hits', 'runs', 'errors', 'strikeouts', 'wins']
+2023-09-10 23:20:21,120 The list of players is: ['Joe Mauer', 'Justin Morneau', 'Johan Santana', 'Kirby Puckett', 'Kent Hrbek']
+2023-09-10 23:20:21,120 The list of minor league levels is: ['AAA', 'AA', 'High A', 'A', 'Rookie']
+2023-09-10 23:20:21,120 The tuple is: (('Minnesota Twins', 'Target Field'), ('Chicago White Sox', 'Guaranteed Rate Field'), ('Cleveland Guardians', 'Progressive Field'), ('Detroit Tigers', 'Comerica Park'), ('Kansas City Royals', 'Kauffman Stadium'))
+2023-09-10 23:20:21,120 Calling functions from main block
+2023-09-10 23:20:21,120 Calling create_random_sentence()
+2023-09-10 23:20:21,121 The random team is: Chicago White Sox
+2023-09-10 23:20:21,121 Random sentence: The Chicago White Sox signed Johan Santana to a three year contract.
+He led the league in wins last season.
